@@ -1,0 +1,26 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A modern, professional calculator built with vanilla HTML, CSS, and JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": [
+    "calculator",
+    "math",
+    "vanilla-js",
+    "responsive",
+    "web-app"
+  ],
+  "author": "Mohammad Alhindi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohammadalhindi1/calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohammadalhindi1/calculator/issues"
+  },
+  "homepage": "https://github.com/mohammadalhindi1/calculator"
+}
