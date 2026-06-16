@@ -1,0 +1,43 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+.Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+
+# Ignore Node modules (if any)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore build files
+dist/
+build/
+*.min.js
+*.min.css
+
+# Ignore OS backup files
+*.bak
+*.backup
+.orig
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore editor backups
+*.tmp
+.project
+.classpath
